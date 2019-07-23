@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mxfile modified="2019-07-23T03:02:29.962Z" host="www.draw.io" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/75.0.3770.142 Safari/537.36" etag="5jiAuYvUonHqxJzRw9Je" version="11.0.2" type="device" compressed="false">
+  <diagram id="licHfTuSXRFQAUJYPujX" name="Page-1">
+    <mxGraphModel dx="1422" dy="715" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0"/>
+        <mxCell id="1" parent="0"/>
+        <UserObject label="%name%&lt;br&gt;&lt;i style=&quot;color: gray&quot;&gt;%position%&lt;/i&gt;&lt;br&gt;&lt;a href=&quot;mailto:%email%&quot;&gt;Email&lt;/a&gt;" name="MPLS" position="AT&amp;T" location="" email="" srcport="" destport="" placeholders="1" id="GLenb4_pBny1JqAMexjl-1">
+          <mxCell style="label;image=;whiteSpace=wrap;html=1;rounded=1;fillColor=;strokeColor=;" vertex="1" parent="1">
+            <mxGeometry x="150" y="30" width="138" height="78" as="geometry"/>
+          </mxCell>
+        </UserObject>
+        <UserObject label="%name%&lt;br&gt;&lt;i style=&quot;color: gray&quot;&gt;%position%&lt;/i&gt;&lt;br&gt;&lt;a href=&quot;mailto:%email%&quot;&gt;Email&lt;/a&gt;" name="FCCU-LD-RTR" position="Router" location="Lodi" email="" srcport="" destport="Gi0/0/1" placeholders="1" id="GLenb4_pBny1JqAMexjl-2">
+          <mxCell style="label;image=;whiteSpace=wrap;html=1;rounded=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+            <mxGeometry x="30" y="180" width="178" height="78" as="geometry"/>
+          </mxCell>
+        </UserObject>
+        <UserObject label="%name%&lt;br&gt;&lt;i style=&quot;color: gray&quot;&gt;%position%&lt;/i&gt;&lt;br&gt;&lt;a href=&quot;mailto:%email%&quot;&gt;Email&lt;/a&gt;" name="FCCU-LD-SW1" position="Switch" location="Lodi" email="" srcport="Gi0/0/2" destport="Gi1/0/48" placeholders="1" id="GLenb4_pBny1JqAMexjl-3">
+          <mxCell style="label;image=;whiteSpace=wrap;html=1;rounded=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+            <mxGeometry x="40" y="287" width="188" height="78" as="geometry"/>
+          </mxCell>
+        </UserObject>
+        <UserObject label="%name%&lt;br&gt;&lt;i style=&quot;color: gray&quot;&gt;%position%&lt;/i&gt;&lt;br&gt;&lt;a href=&quot;mailto:%email%&quot;&gt;Email&lt;/a&gt;" name="FCCU-LD-SW3" position="Switch" location="Lodi" email="" srcport="Gi1/0/47" destport="Gi1/0/48" placeholders="1" id="GLenb4_pBny1JqAMexjl-4">
+          <mxCell style="label;image=;whiteSpace=wrap;html=1;rounded=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+            <mxGeometry x="10" y="464" width="188" height="78" as="geometry"/>
+          </mxCell>
+        </UserObject>
+        <UserObject label="%name%&lt;br&gt;&lt;i style=&quot;color: gray&quot;&gt;%position%&lt;/i&gt;&lt;br&gt;&lt;a href=&quot;mailto:%email%&quot;&gt;Email&lt;/a&gt;" name="FCCU-LD-SW2" position="Switch" location="Lodi" email="" srcport="Gi1/0/46" destport="Gi1/0/48" placeholders="1" id="GLenb4_pBny1JqAMexjl-5">
+          <mxCell style="label;image=;whiteSpace=wrap;html=1;rounded=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+            <mxGeometry x="50" y="570" width="188" height="78" as="geometry"/>
+          </mxCell>
+        </UserObject>
+        <UserObject label="%name%&lt;br&gt;&lt;i style=&quot;color: gray&quot;&gt;%position%&lt;/i&gt;&lt;br&gt;&lt;a href=&quot;mailto:%email%&quot;&gt;Email&lt;/a&gt;" name="WAP1" position="AP" location="Lodi" email="" srcport="Gi1/0/47" destport="Gi0/0/1" placeholders="1" id="GLenb4_pBny1JqAMexjl-6">
+          <mxCell style="label;image=;whiteSpace=wrap;html=1;rounded=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+            <mxGeometry x="110" y="680" width="138" height="78" as="geometry"/>
+          </mxCell>
+        </UserObject>
+        <UserObject label="%name%&lt;br&gt;&lt;i style=&quot;color: gray&quot;&gt;%position%&lt;/i&gt;&lt;br&gt;&lt;a href=&quot;mailto:%email%&quot;&gt;Email&lt;/a&gt;" name="FCCU-LODI-VG204" position="Voice Gateway" location="Lodi" email="" srcport="Gi1/0/45" destport="Gi0/0/1" placeholders="1" id="GLenb4_pBny1JqAMexjl-7">
+          <mxCell style="label;image=;whiteSpace=wrap;html=1;rounded=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+            <mxGeometry x="238" y="480" width="208" height="78" as="geometry"/>
+          </mxCell>
+        </UserObject>
+        <UserObject label="%name%&lt;br&gt;&lt;i style=&quot;color: gray&quot;&gt;%position%&lt;/i&gt;&lt;br&gt;&lt;a href=&quot;mailto:%email%&quot;&gt;Email&lt;/a&gt;" name="FCCU-BH-RTR" position="Router" location="Ben Holt" email="" srcport="" destport="" placeholders="1" id="GLenb4_pBny1JqAMexjl-8">
+          <mxCell style="label;image=;whiteSpace=wrap;html=1;rounded=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+            <mxGeometry x="288" y="188" width="188" height="78" as="geometry"/>
+          </mxCell>
+        </UserObject>
+        <UserObject label="%name%&lt;br&gt;&lt;i style=&quot;color: gray&quot;&gt;%position%&lt;/i&gt;&lt;br&gt;&lt;a href=&quot;mailto:%email%&quot;&gt;Email&lt;/a&gt;" name="FCCU-BH-SW1" position="Switch" location="Ben Holt" email="" srcport="" destport="" placeholders="1" id="GLenb4_pBny1JqAMexjl-9">
+          <mxCell style="label;image=;whiteSpace=wrap;html=1;rounded=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+            <mxGeometry x="300" y="310" width="188" height="78" as="geometry"/>
+          </mxCell>
+        </UserObject>
+        <UserObject label="%name%&lt;br&gt;&lt;i style=&quot;color: gray&quot;&gt;%position%&lt;/i&gt;&lt;br&gt;&lt;a href=&quot;mailto:%email%&quot;&gt;Email&lt;/a&gt;" name="FCCU-BH-SW2" position="Switch" location="Ben Holt" email="" srcport="" destport="" placeholders="1" id="GLenb4_pBny1JqAMexjl-10">
+          <mxCell style="label;image=;whiteSpace=wrap;html=1;rounded=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+            <mxGeometry x="370" y="610" width="188" height="78" as="geometry"/>
+          </mxCell>
+        </UserObject>
+        <UserObject label="%name%&lt;br&gt;&lt;i style=&quot;color: gray&quot;&gt;%position%&lt;/i&gt;&lt;br&gt;&lt;a href=&quot;mailto:%email%&quot;&gt;Email&lt;/a&gt;" name="FCCU-PR-RTR" position="Router" location="Pershing" email="" srcport="" destport="" placeholders="1" id="GLenb4_pBny1JqAMexjl-11">
+          <mxCell style="label;image=;whiteSpace=wrap;html=1;rounded=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+            <mxGeometry x="590" y="188" width="188" height="78" as="geometry"/>
+          </mxCell>
+        </UserObject>
+        <UserObject label="%name%&lt;br&gt;&lt;i style=&quot;color: gray&quot;&gt;%position%&lt;/i&gt;&lt;br&gt;&lt;a href=&quot;mailto:%email%&quot;&gt;Email&lt;/a&gt;" name="FCCU-PR-SW1" position="Switch" location="Pershing" email="" srcport="" destport="" placeholders="1" id="GLenb4_pBny1JqAMexjl-12">
+          <mxCell style="label;image=;whiteSpace=wrap;html=1;rounded=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+            <mxGeometry x="610" y="320" width="188" height="78" as="geometry"/>
+          </mxCell>
+        </UserObject>
+        <UserObject label="%name%&lt;br&gt;&lt;i style=&quot;color: gray&quot;&gt;%position%&lt;/i&gt;&lt;br&gt;&lt;a href=&quot;mailto:%email%&quot;&gt;Email&lt;/a&gt;" name="FCCU-PR-RTR1" position="Router" location="Pershing" email="" srcport="" destport="" placeholders="1" id="GLenb4_pBny1JqAMexjl-13">
+          <mxCell style="label;image=;whiteSpace=wrap;html=1;rounded=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+            <mxGeometry x="488" y="441" width="188" height="78" as="geometry"/>
+          </mxCell>
+        </UserObject>
+        <UserObject label="%name%&lt;br&gt;&lt;i style=&quot;color: gray&quot;&gt;%position%&lt;/i&gt;&lt;br&gt;&lt;a href=&quot;mailto:%email%&quot;&gt;Email&lt;/a&gt;" name="NOHOST" position="Switch" location="Pershing" email="" srcport="" destport="" placeholders="1" id="GLenb4_pBny1JqAMexjl-14">
+          <mxCell style="label;image=;whiteSpace=wrap;html=1;rounded=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+            <mxGeometry x="650" y="562" width="148" height="78" as="geometry"/>
+          </mxCell>
+        </UserObject>
+        <mxCell id="GLenb4_pBny1JqAMexjl-15" value="manages" style="curved=1;endArrow=blockThin;endFill=1;fontSize=11;" edge="1" parent="1" source="GLenb4_pBny1JqAMexjl-1" target="GLenb4_pBny1JqAMexjl-2">
+          <mxGeometry relative="1" as="geometry"/>
+        </mxCell>
+        <mxCell id="GLenb4_pBny1JqAMexjl-16" value="manages" style="curved=1;endArrow=blockThin;endFill=1;fontSize=11;" edge="1" parent="1" source="GLenb4_pBny1JqAMexjl-2" target="GLenb4_pBny1JqAMexjl-3">
+          <mxGeometry relative="1" as="geometry"/>
+        </mxCell>
+        <mxCell id="GLenb4_pBny1JqAMexjl-17" value="manages" style="curved=1;endArrow=blockThin;endFill=1;fontSize=11;" edge="1" parent="1" source="GLenb4_pBny1JqAMexjl-3" target="GLenb4_pBny1JqAMexjl-4">
+          <mxGeometry relative="1" as="geometry"/>
+        </mxCell>
+        <mxCell id="GLenb4_pBny1JqAMexjl-18" value="manages" style="curved=1;endArrow=blockThin;endFill=1;fontSize=11;" edge="1" parent="1" source="GLenb4_pBny1JqAMexjl-3" target="GLenb4_pBny1JqAMexjl-5">
+          <mxGeometry relative="1" as="geometry"/>
+        </mxCell>
+        <mxCell id="GLenb4_pBny1JqAMexjl-19" value="manages" style="curved=1;endArrow=blockThin;endFill=1;fontSize=11;" edge="1" parent="1" source="GLenb4_pBny1JqAMexjl-5" target="GLenb4_pBny1JqAMexjl-6">
+          <mxGeometry relative="1" as="geometry"/>
+        </mxCell>
+        <mxCell id="GLenb4_pBny1JqAMexjl-20" value="manages" style="curved=1;endArrow=blockThin;endFill=1;fontSize=11;" edge="1" parent="1" source="GLenb4_pBny1JqAMexjl-3" target="GLenb4_pBny1JqAMexjl-7">
+          <mxGeometry relative="1" as="geometry"/>
+        </mxCell>
+        <mxCell id="GLenb4_pBny1JqAMexjl-21" value="manages" style="curved=1;endArrow=blockThin;endFill=1;fontSize=11;" edge="1" parent="1" source="GLenb4_pBny1JqAMexjl-1" target="GLenb4_pBny1JqAMexjl-8">
+          <mxGeometry relative="1" as="geometry"/>
+        </mxCell>
+        <mxCell id="GLenb4_pBny1JqAMexjl-22" value="manages" style="curved=1;endArrow=blockThin;endFill=1;fontSize=11;" edge="1" parent="1" source="GLenb4_pBny1JqAMexjl-8" target="GLenb4_pBny1JqAMexjl-9">
+          <mxGeometry relative="1" as="geometry"/>
+        </mxCell>
+        <mxCell id="GLenb4_pBny1JqAMexjl-23" value="manages" style="curved=1;endArrow=blockThin;endFill=1;fontSize=11;" edge="1" parent="1" source="GLenb4_pBny1JqAMexjl-9" target="GLenb4_pBny1JqAMexjl-10">
+          <mxGeometry relative="1" as="geometry"/>
+        </mxCell>
+        <mxCell id="GLenb4_pBny1JqAMexjl-24" value="manages" style="curved=1;endArrow=blockThin;endFill=1;fontSize=11;" edge="1" parent="1" source="GLenb4_pBny1JqAMexjl-1" target="GLenb4_pBny1JqAMexjl-11">
+          <mxGeometry relative="1" as="geometry"/>
+        </mxCell>
+        <mxCell id="GLenb4_pBny1JqAMexjl-25" value="manages" style="curved=1;endArrow=blockThin;endFill=1;fontSize=11;" edge="1" parent="1" source="GLenb4_pBny1JqAMexjl-11" target="GLenb4_pBny1JqAMexjl-12">
+          <mxGeometry relative="1" as="geometry"/>
+        </mxCell>
+        <mxCell id="GLenb4_pBny1JqAMexjl-26" value="manages" style="curved=1;endArrow=blockThin;endFill=1;fontSize=11;" edge="1" parent="1" source="GLenb4_pBny1JqAMexjl-12" target="GLenb4_pBny1JqAMexjl-13">
+          <mxGeometry relative="1" as="geometry"/>
+        </mxCell>
+        <mxCell id="GLenb4_pBny1JqAMexjl-27" value="manages" style="curved=1;endArrow=blockThin;endFill=1;fontSize=11;" edge="1" parent="1" source="GLenb4_pBny1JqAMexjl-12" target="GLenb4_pBny1JqAMexjl-14">
+          <mxGeometry relative="1" as="geometry"/>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
